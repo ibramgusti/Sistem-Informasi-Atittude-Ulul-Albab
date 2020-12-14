@@ -1,0 +1,72 @@
+*{
+	font-family: 'Quicksand', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+.wrapper{
+	background: url(../image/bgprimer.png) no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.navbar{
+	position: fixed;
+	height: 80px;
+	width: 100%;
+	top: 0;
+	left: 0;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+.navbar img{
+	width: 250px;
+	padding-left: 50px;
+	padding-top: 18px;
+}
+.box{
+	width: 300px;
+	padding: 40px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+}
+.box h1{
+	color: #353e4d;
+	text-transform: uppercase;
+	font-weight: 500;
+}
+.box input[type = "text"], .box input[type = "password"]{
+	border: 0;
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border: 2px solid #ffc9ed;
+	padding: 14px 10px;
+	width: 200px;
+	outline: none;
+	color: #353e4d;
+	border-radius: 24px;
+	transition: 0.25s;
+}
+.box input[type = "text"]:focus, .box input[type = "password"]:focus{
+	width: 280px;
+	border-color: #b1e9ed;
+}
+.box input[type ="submit"]{
+	border: 0;
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border: 2px solid #b1e9ed;
+	padding: 14px 40px;
+	outline: none;
+	color: #353e4d;
+	border-radius: 24px;
+	transition: 0.25s;
+	cursor: pointer;
+}
+.box input[type ="submit"]:hover{
+	background: #b1e9ed;
+}
