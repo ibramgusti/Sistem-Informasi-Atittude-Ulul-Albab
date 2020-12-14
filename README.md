@@ -1,0 +1,2 @@
+# Sistem-Informasi-Atittude-Ulul-Albab
+Sistem Informasi ini merupakan Sistem Informasi berbasis web yang berfungsi untuk menjembatani antara pengajar/ustadz dan mahasiswa/mahasantri dalam melaksanakan program mahad atau universitas yang bertujuan untuk membentuk akhlaq mahasiswa sesuai dengan cita" UIN Malang yaitu "menghasilkan lulusan yang memiliki kedalaman spiritual, keagungan akhlak, keluasan ilmu, dan kematangan profesional"  
